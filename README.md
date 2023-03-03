@@ -1,5 +1,13 @@
 # Привет, меня зовут Алексей!
 
+- ✍ Изучаю веб-разработку на курсах Hawking School!
+
+- 📌 Хочу освоить новую проффесию и найти работу.
+
+- :mailbox: Как связаться со мной: [![VK Badge](https://img.shields.io/badge/-Алексей-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/happy_idiot_ru) [![Telegram Badge](https://img.shields.io/badge/-Алексей-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Scorstier) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dead.empty.tea@gmail.com)
+
+- 📈 Мой Сертификат: [![Google Drive Badge](https://img.shields.io/badge/-Сертификат-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_oRKbqgXYy3FfF62_f1eE3Jd7jJrGjpG/view?usp=share_link)
+
 ---
 
 ### 🤝 Социальные сети:
