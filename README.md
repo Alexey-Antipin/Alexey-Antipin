@@ -234,6 +234,10 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Alexey-Antipin/badges/large)
+
 ### ⚙️ GitHub статистика:
 
 <table>
